@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521855859 source:c:\users\isaac pacheco\documents\math 230\perceptron\main.c
+	<stdio.h>
+	<stdlib.h>
+
